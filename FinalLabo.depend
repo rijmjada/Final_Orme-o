@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1645290522 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\linkedlist.c
+	"LinkedList.h"
+
+1644938236 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1645623019 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Validaciones.h"
+	"Participantes.h"
+	"Informes.h"
+
+1645622524 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\controller.c
+	"Controller.h"
+
+1645619916 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\parser.c
+	"Parser.h"
+
+1645616376 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\validaciones.c
+	"Validaciones.h"
+
+1645615187 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1645622524 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Parser.h"
+	"LinkedList.h"
+	"Informes.h"
+
+1645619916 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"LinkedList.h"
+	"Participantes.h"
+
+1645622962 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\participantes.c
+	"Participantes.h"
+
+1645618265 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\participantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"LinkedList.h"
+
+1645622854 source:c:\users\administrador\desktop\estudio final c\estructuras\finallabo\informes.c
+	"Informes.h"
+
+1645622429 c:\users\administrador\desktop\estudio final c\estructuras\finallabo\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Participantes.h"
+	"LinkedList.h"
+
